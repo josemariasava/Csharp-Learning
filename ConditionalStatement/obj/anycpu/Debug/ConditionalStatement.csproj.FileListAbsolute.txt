@@ -1,0 +1,5 @@
+/Users/josemariasava/Code/ConsoleProgramming/ConditionalStatement/bin/Debug/ConditionalStatement.exe
+/Users/josemariasava/Code/ConsoleProgramming/ConditionalStatement/bin/Debug/ConditionalStatement.pdb
+/Users/josemariasava/Code/ConsoleProgramming/ConditionalStatement/obj/anycpu/Debug/ConditionalStatement.csproj.CoreCompileInputs.cache
+/Users/josemariasava/Code/ConsoleProgramming/ConditionalStatement/obj/anycpu/Debug/ConditionalStatement.exe
+/Users/josemariasava/Code/ConsoleProgramming/ConditionalStatement/obj/anycpu/Debug/ConditionalStatement.pdb

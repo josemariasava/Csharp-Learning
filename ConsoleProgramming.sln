@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleProgramming", "ConsoleProgramming\ConsoleProgramming.csproj", "{2593C805-232D-4979-AA7D-BF16B7A6AF75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InputOutput", "InputOutput\InputOutput.csproj", "{CFCE29B5-4658-487F-BF26-EF2281EE1AB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTypes", "DataTypes\DataTypes.csproj", "{F800FCCD-FA56-4967-9907-A8FC8B9B3CC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathOperators", "MathOperators\MathOperators.csproj", "{00441467-EF1A-4C6E-A9AB-040C1AB7D59F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConditionalStatement", "ConditionalStatement\ConditionalStatement.csproj", "{6F4C1ABF-4FAD-42C1-A823-C2ED03310912}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2593C805-232D-4979-AA7D-BF16B7A6AF75}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{2593C805-232D-4979-AA7D-BF16B7A6AF75}.Debug|anycpu.Build.0 = Debug|anycpu
+		{2593C805-232D-4979-AA7D-BF16B7A6AF75}.Release|anycpu.ActiveCfg = Release|anycpu
+		{2593C805-232D-4979-AA7D-BF16B7A6AF75}.Release|anycpu.Build.0 = Release|anycpu
+		{CFCE29B5-4658-487F-BF26-EF2281EE1AB1}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{CFCE29B5-4658-487F-BF26-EF2281EE1AB1}.Debug|anycpu.Build.0 = Debug|anycpu
+		{CFCE29B5-4658-487F-BF26-EF2281EE1AB1}.Release|anycpu.ActiveCfg = Release|anycpu
+		{CFCE29B5-4658-487F-BF26-EF2281EE1AB1}.Release|anycpu.Build.0 = Release|anycpu
+		{F800FCCD-FA56-4967-9907-A8FC8B9B3CC0}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{F800FCCD-FA56-4967-9907-A8FC8B9B3CC0}.Debug|anycpu.Build.0 = Debug|anycpu
+		{F800FCCD-FA56-4967-9907-A8FC8B9B3CC0}.Release|anycpu.ActiveCfg = Release|anycpu
+		{F800FCCD-FA56-4967-9907-A8FC8B9B3CC0}.Release|anycpu.Build.0 = Release|anycpu
+		{00441467-EF1A-4C6E-A9AB-040C1AB7D59F}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{00441467-EF1A-4C6E-A9AB-040C1AB7D59F}.Debug|anycpu.Build.0 = Debug|anycpu
+		{00441467-EF1A-4C6E-A9AB-040C1AB7D59F}.Release|anycpu.ActiveCfg = Release|anycpu
+		{00441467-EF1A-4C6E-A9AB-040C1AB7D59F}.Release|anycpu.Build.0 = Release|anycpu
+		{6F4C1ABF-4FAD-42C1-A823-C2ED03310912}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{6F4C1ABF-4FAD-42C1-A823-C2ED03310912}.Debug|anycpu.Build.0 = Debug|anycpu
+		{6F4C1ABF-4FAD-42C1-A823-C2ED03310912}.Release|anycpu.ActiveCfg = Release|anycpu
+		{6F4C1ABF-4FAD-42C1-A823-C2ED03310912}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A7D21D4-3460-432C-8696-CD468375706E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,3 @@
+/Users/josemariasava/Code/ConsoleProgramming/DataTypes/bin/Release/DataTypes.exe
+/Users/josemariasava/Code/ConsoleProgramming/DataTypes/obj/anycpu/Release/DataTypes.csproj.CoreCompileInputs.cache
+/Users/josemariasava/Code/ConsoleProgramming/DataTypes/obj/anycpu/Release/DataTypes.exe

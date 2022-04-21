@@ -1,0 +1,5 @@
+/Users/josemariasava/Code/ConsoleProgramming/DataTypes/bin/Debug/DataTypes.exe
+/Users/josemariasava/Code/ConsoleProgramming/DataTypes/bin/Debug/DataTypes.pdb
+/Users/josemariasava/Code/ConsoleProgramming/DataTypes/obj/anycpu/Debug/DataTypes.csproj.CoreCompileInputs.cache
+/Users/josemariasava/Code/ConsoleProgramming/DataTypes/obj/anycpu/Debug/DataTypes.exe
+/Users/josemariasava/Code/ConsoleProgramming/DataTypes/obj/anycpu/Debug/DataTypes.pdb

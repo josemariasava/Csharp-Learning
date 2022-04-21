@@ -1,0 +1,6 @@
+/Users/josemariasava/Code/ConsoleProgramming/MathOperators/bin/Debug/MathOperators.exe
+/Users/josemariasava/Code/ConsoleProgramming/MathOperators/bin/Debug/MathOperators.pdb
+/Users/josemariasava/Code/ConsoleProgramming/MathOperators/obj/anycpu/Debug/MathOperators.csproj.AssemblyReference.cache
+/Users/josemariasava/Code/ConsoleProgramming/MathOperators/obj/anycpu/Debug/MathOperators.csproj.CoreCompileInputs.cache
+/Users/josemariasava/Code/ConsoleProgramming/MathOperators/obj/anycpu/Debug/MathOperators.exe
+/Users/josemariasava/Code/ConsoleProgramming/MathOperators/obj/anycpu/Debug/MathOperators.pdb

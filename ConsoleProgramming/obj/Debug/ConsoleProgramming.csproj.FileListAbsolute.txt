@@ -1,0 +1,6 @@
+/Users/josemariasava/Code/ConsoleProgramming/ConsoleProgramming/obj/Debug/ConsoleProgramming.csproj.AssemblyReference.cache
+/Users/josemariasava/Code/ConsoleProgramming/ConsoleProgramming/obj/Debug/ConsoleProgramming.csproj.CoreCompileInputs.cache
+/Users/josemariasava/Code/ConsoleProgramming/ConsoleProgramming/bin/Debug/ConsoleProgramming.exe
+/Users/josemariasava/Code/ConsoleProgramming/ConsoleProgramming/bin/Debug/ConsoleProgramming.pdb
+/Users/josemariasava/Code/ConsoleProgramming/ConsoleProgramming/obj/Debug/ConsoleProgramming.exe
+/Users/josemariasava/Code/ConsoleProgramming/ConsoleProgramming/obj/Debug/ConsoleProgramming.pdb

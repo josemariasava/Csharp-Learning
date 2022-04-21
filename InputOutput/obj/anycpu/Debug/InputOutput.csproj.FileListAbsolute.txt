@@ -1,0 +1,6 @@
+/Users/josemariasava/Code/ConsoleProgramming/InputOutput/obj/anycpu/Debug/InputOutput.csproj.AssemblyReference.cache
+/Users/josemariasava/Code/ConsoleProgramming/InputOutput/obj/anycpu/Debug/InputOutput.csproj.CoreCompileInputs.cache
+/Users/josemariasava/Code/ConsoleProgramming/InputOutput/bin/Debug/InputOutput.exe
+/Users/josemariasava/Code/ConsoleProgramming/InputOutput/bin/Debug/InputOutput.pdb
+/Users/josemariasava/Code/ConsoleProgramming/InputOutput/obj/anycpu/Debug/InputOutput.exe
+/Users/josemariasava/Code/ConsoleProgramming/InputOutput/obj/anycpu/Debug/InputOutput.pdb
